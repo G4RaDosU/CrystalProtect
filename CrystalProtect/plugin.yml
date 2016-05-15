@@ -1,0 +1,8 @@
+name: CrystalProtect
+main: com.gmail.galilewpy.CrystalProtect.CrystalProtect
+version: 1.0
+
+commands:
+   cp:
+      description: crystal protect command
+      default: op
